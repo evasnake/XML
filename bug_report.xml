@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<root>
+	<ID>1</ID>
+	<Title>new1</Title>
+	<Environment>Windows_10</Environment>
+	<Precondition>url</Precondition>
+	<Severity>critical</Severity>
+	<Priority>medium</Priority>
+	<STR>1</STR>
+	<AR>none</AR>
+	<ER>none</ER>
+	<Attachments>none</Attachments>
+	<Author>Evgeniya_K</Author>
+	<Date>25.02.2023</Date>
+	<Time>22:53</Time>
+</root>
