@@ -1,9 +1,8 @@
 <?xml version="1.0"?>
 <root>
-	<favorite_movie>Platform,Menu</favorite_movie>
-	<favorite_series>about_difficult_life_situations</favorite_series>
-	<favorite_food>red_fish</favorite_food>
-	<favorite_season>warm_autumn</favorite_season>
-	<the_country_you_would_like_to_visit>Kyrgyzstan</the_country_you_would_like_to_visit>
+	<full_name>Koshcheeva Evgeniya Anatolyevna</full_name>
+	<age>34</age>
+	<number_of_pets>7</number_of_pets>
+	<future_desired_salary>1200$</future_desired_salary>
 </root>
 

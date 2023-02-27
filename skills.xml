@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<root>
+	<Skills_to_be_learned_in_the_course>
+		<skill_1>test_documentations</skill_1>
+		<skill_2>test_planning_and_strategy</skill_2>
+		<skill_3>test_design</skill_3>
+		<skill_4>bug_report</skill_4>
+		<skill_5>terminal_linux</skill_5>
+		<skill_other>and_other</skill_other>
+	</Skills_to_be_learned_in_the_course>
+</root>
+
